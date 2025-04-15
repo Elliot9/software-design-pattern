@@ -1,0 +1,54 @@
+{
+    "light": {
+      "description": "The natural agent that stimulates sight and makes things visible",
+      "definitions": {
+        "verb": "To provide with light or lighting; illuminate.",
+        "adjective": "Having a considerable or sufficient amount of natural light; not dark.",
+        "noun": "The natural agent that stimulates sight and makes things visible."
+      }
+    },
+    "lead": {
+      "description": "Cause a person or animal to go with one by holding them by the hand, halter, rope, etc. while moving forward",
+      "definitions": {
+        "verb": "The initiative in an action; an example for others to follow.",
+        "noun": "The initiative in an action; an example for others to follow."
+      }
+    },
+    "stand": {
+      "description": "To be in a position with both feet on the ground.",
+      "definitions": {
+        "verb": "An act of standing; an attitude or position of the body.",
+        "noun": "A position with both feet on the ground."
+      }
+    },
+    "work": {
+      "description": "To perform a task or job.",
+      "definitions": {
+        "adverb": "In a way that is effective or efficient.",
+        "verb": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+        "noun": "A task or job."
+      }
+    },
+    "change": {
+      "description": "To make a change or alteration.",
+      "definitions": {
+        "verb": "To make a change or alteration.",
+        "noun": "A change or alteration."
+      }
+    },
+    "point": {
+      "description": "A numerical value representing a quantity or measure.",
+      "definitions": {
+        "verb": "A particular spot, place, or moment.",
+        "noun": "A numerical value representing a quantity or measure."
+      }
+    },
+    "play": {
+      "description": "To engage in an activity for enjoyment and recreation rather than a serious or practical purpose.",
+      "definitions": {
+        "verb": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "noun": "An activity for enjoyment and recreation rather than a serious or practical purpose."
+      }
+    }
+  }
+  

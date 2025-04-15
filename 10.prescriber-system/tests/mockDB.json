@@ -1,0 +1,53 @@
+{
+    "patients": {
+      "A123456789": {
+        "id": "A123456789",
+        "name": "Elliot Chen",
+        "gender": "male",
+        "birth": "1995-01-01",
+        "height": 187.0,
+        "weight": 80.0,
+        "cases": [
+            {
+                "symptoms": ["Headache", "Cough", "Sneeze"],
+                "prescription": {
+                    "name": "Headache",
+                    "potential_disease": "COVID-19",
+                    "medicines": ["\u6E05\u51A0\u4E00\u865F"],
+                    "usage": "\u5C07\u76F8\u95DC\u85E5\u6750\u88DD\u5165\u8336\u5305\u88CF\uFF0C\u4F7F\u7528500mL\u6EAB\u3001\u71B1\u6C34\u6C34\u6F3F\u95DC\u95DC\u6EAB\u6C34\u6C34\u6F3F1~3 \u5206\u9418\u5F8C\u5373\u53EF\u98F2\u7528\u3002"
+                },
+                "case_time": "2024-02-03T12:00:00Z"
+            },
+            {
+                "symptoms": ["Snore"],
+                "prescription": {
+                    "name": "Snore",
+                    "potential_disease": "SleepApneaSyndrome",
+                    "medicines": ["\u4E00\u6372\u81A0\u5E36"],
+                    "usage": "\u7761\u89BA\u6642\uFF0C\u64A5\u4E0B\u5169\u584A\u81A0\u5E36\uFF0C\u5C07\u5169\u584A\u81A0\u5E36\u4EA4\u932F\u9B91\u5728\u95DC\u9589\u7684\u5634\u5DF4\u4E0A\uFF0C\u5C31\u4E0D\u6703\u6253\u547C\u4E86\u3002"
+                },
+                "case_time": "2024-12-13T12:00:00Z"
+            }
+        ]
+      },
+      "B987654321": {
+        "id": "B987654321",
+        "name": "Jane Smith",
+        "gender": "female",
+        "birth": "1997-02-15",
+        "height": 165.2,
+        "weight": 55.0,
+        "cases": []
+      },
+      "C135792468": {
+        "id": "C135792468",
+        "name": "Alice Brown",
+        "gender": "female",
+        "birth": "1990-03-20",
+        "height": 160.0,
+        "weight": 70.0,
+        "cases": []
+      }
+    }
+  }
+  

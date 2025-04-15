@@ -1,0 +1,18 @@
+2025-02-11 11:17:43.617 |-INFO app.game - The game begins.
+2025-02-11 11:17:43.618 |-TRACE app.game.ai - AI 1 starts making decisions...
+2025-02-11 11:17:43.618 |-WARN app.game.ai - AI 1 decides to give up.
+2025-02-11 11:17:43.618 |-ERROR app.game.ai - Something goes wrong when AI 1 gives up.
+2025-02-11 11:17:43.619 |-TRACE app.game.ai - AI 1 completes its decision.
+2025-02-11 11:17:43.619 |-TRACE app.game.ai - AI 2 starts making decisions...
+2025-02-11 11:17:43.619 |-WARN app.game.ai - AI 2 decides to give up.
+2025-02-11 11:17:43.619 |-ERROR app.game.ai - Something goes wrong when AI 2 gives up.
+2025-02-11 11:17:43.619 |-TRACE app.game.ai - AI 2 completes its decision.
+2025-02-11 11:17:43.620 |-TRACE app.game.ai - AI 3 starts making decisions...
+2025-02-11 11:17:43.620 |-WARN app.game.ai - AI 3 decides to give up.
+2025-02-11 11:17:43.620 |-ERROR app.game.ai - Something goes wrong when AI 3 gives up.
+2025-02-11 11:17:43.620 |-TRACE app.game.ai - AI 3 completes its decision.
+2025-02-11 11:17:43.620 |-TRACE app.game.ai - AI 4 starts making decisions...
+2025-02-11 11:17:43.620 |-WARN app.game.ai - AI 4 decides to give up.
+2025-02-11 11:17:43.621 |-ERROR app.game.ai - Something goes wrong when AI 4 gives up.
+2025-02-11 11:17:43.621 |-TRACE app.game.ai - AI 4 completes its decision.
+2025-02-11 11:17:43.621 |-DEBUG app.game - Game ends.
